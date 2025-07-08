@@ -28,7 +28,6 @@ A modern, interactive coding game portal that gamifies programming practice, lea
 - **Leaderboards**: Global and weekly rankings
 - **Learning Resources**: Curated notes and interview questions
 - **Premium Content**: Advanced features for premium users
-- **Google Sign-In**: Quick authentication with Google accounts
 
 ### Admin Features
 - **Problem Management**: CRUD operations for coding problems
