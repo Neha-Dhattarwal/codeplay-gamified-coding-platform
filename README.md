@@ -2,6 +2,13 @@
 
 A modern, interactive coding game portal that gamifies programming practice, learning, and competition. Built with React, Node.js, and MongoDB.
 
+## 🌐 Live Preview (Temporary DevTunnel Link)
+
+> 🧪 For testing purposes (only works while tunnel is active):
+[https://ncb3w600-5174.inc1.devtunnels.ms/](https://ncb3w600-5174.inc1.devtunnels.ms/)
+
+Note: This is a temporary tunnel URL and may expire when the developer is offline.
+
 ## 🎮 Features
 
 ### Core Functionality
