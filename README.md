@@ -2,6 +2,8 @@
 
 A modern, interactive coding game portal that gamifies programming practice, learning, and competition. Built with React, Node.js, and MongoDB.
 
+🚀 [Live Demo](https://codeplay-gamified-coding-platform.vercel.app/)
+
 ## 🎮 Features
 
 ### Core Functionality
